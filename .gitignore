@@ -1,0 +1,6 @@
+.idea/
+.old/
+*.pytest_cache
+*__pycache__
+tests/gbr_files/*
+examples/output/*
